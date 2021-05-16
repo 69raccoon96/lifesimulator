@@ -1,0 +1,16 @@
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\bin\Release\Life Simulator.exe.config
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\bin\Release\Life Simulator.exe
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\bin\Release\Life Simulator.pdb
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Release\Life_Simulator.ChooseSubject.resources
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Release\Life_Simulator.Form1.resources
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Release\Life_Simulator.Profile.resources
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Release\Life_Simulator.Properties.Resources.resources
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Release\Life_Simulator.Start.resources
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Release\Life Simulator.csproj.GenerateResource.cache
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Release\Life Simulator.csproj.CoreCompileInputs.cache
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Release\Life Simulator.exe
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Release\Life Simulator.pdb
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Release\Life Simulator.csprojAssemblyReference.cache
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Release\Life_Simulator.ChooseWork.resources
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Release\Life_Simulator.Credit.resources
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Release\Life_Simulator.GetWork.resources

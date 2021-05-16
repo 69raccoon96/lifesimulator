@@ -1,0 +1,44 @@
+C:\Users\EHOT\source\repos\Life Simulator\Life Simulator\bin\Debug\Life Simulator.exe.config
+C:\Users\EHOT\source\repos\Life Simulator\Life Simulator\bin\Debug\Life Simulator.exe
+C:\Users\EHOT\source\repos\Life Simulator\Life Simulator\bin\Debug\Life Simulator.pdb
+C:\Users\EHOT\source\repos\Life Simulator\Life Simulator\obj\Debug\Life Simulator.csprojAssemblyReference.cache
+C:\Users\EHOT\source\repos\Life Simulator\Life Simulator\obj\Debug\Life_Simulator.Form1.resources
+C:\Users\EHOT\source\repos\Life Simulator\Life Simulator\obj\Debug\Life_Simulator.Properties.Resources.resources
+C:\Users\EHOT\source\repos\Life Simulator\Life Simulator\obj\Debug\Life Simulator.csproj.GenerateResource.cache
+C:\Users\EHOT\source\repos\Life Simulator\Life Simulator\obj\Debug\Life Simulator.csproj.CoreCompileInputs.cache
+C:\Users\EHOT\source\repos\Life Simulator\Life Simulator\obj\Debug\Life Simulator.exe
+C:\Users\EHOT\source\repos\Life Simulator\Life Simulator\obj\Debug\Life Simulator.pdb
+C:\Users\EHOT\source\repos\Life Simulator\Life Simulator\obj\Debug\Life_Simulator.Start.resources
+C:\Users\EHOT\source\repos\Life Simulator\Life Simulator\obj\Debug\Life_Simulator.ChooseSubject.resources
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\bin\Debug\Life Simulator.exe.config
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\bin\Debug\Life Simulator.exe
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\bin\Debug\Life Simulator.pdb
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Debug\Life Simulator.csprojAssemblyReference.cache
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Debug\Life_Simulator.ChooseSubject.resources
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Debug\Life_Simulator.Form1.resources
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Debug\Life_Simulator.Profile.resources
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Debug\Life_Simulator.Properties.Resources.resources
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Debug\Life_Simulator.Start.resources
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Debug\Life Simulator.csproj.GenerateResource.cache
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Debug\Life Simulator.csproj.CoreCompileInputs.cache
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Debug\Life Simulator.exe
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Debug\Life Simulator.pdb
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Debug\Life_Simulator.Credit.resources
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Debug\Life_Simulator.GetWork.resources
+C:\Users\ivan0\Desktop\filonenko\lifesimulator\Life Simulator\obj\Debug\Life_Simulator.ChooseWork.resources
+C:\Users\ivan0\Desktop\lifesimulator\Life Simulator\bin\Debug\Life Simulator.exe.config
+C:\Users\ivan0\Desktop\lifesimulator\Life Simulator\bin\Debug\Life Simulator.exe
+C:\Users\ivan0\Desktop\lifesimulator\Life Simulator\bin\Debug\Life Simulator.pdb
+C:\Users\ivan0\Desktop\lifesimulator\Life Simulator\obj\Debug\Life Simulator.csprojAssemblyReference.cache
+C:\Users\ivan0\Desktop\lifesimulator\Life Simulator\obj\Debug\Life_Simulator.ChooseSubject.resources
+C:\Users\ivan0\Desktop\lifesimulator\Life Simulator\obj\Debug\Life_Simulator.ChooseWork.resources
+C:\Users\ivan0\Desktop\lifesimulator\Life Simulator\obj\Debug\Life_Simulator.Credit.resources
+C:\Users\ivan0\Desktop\lifesimulator\Life Simulator\obj\Debug\Life_Simulator.Form1.resources
+C:\Users\ivan0\Desktop\lifesimulator\Life Simulator\obj\Debug\Life_Simulator.GetWork.resources
+C:\Users\ivan0\Desktop\lifesimulator\Life Simulator\obj\Debug\Life_Simulator.Profile.resources
+C:\Users\ivan0\Desktop\lifesimulator\Life Simulator\obj\Debug\Life_Simulator.Properties.Resources.resources
+C:\Users\ivan0\Desktop\lifesimulator\Life Simulator\obj\Debug\Life_Simulator.Start.resources
+C:\Users\ivan0\Desktop\lifesimulator\Life Simulator\obj\Debug\Life Simulator.csproj.GenerateResource.cache
+C:\Users\ivan0\Desktop\lifesimulator\Life Simulator\obj\Debug\Life Simulator.csproj.CoreCompileInputs.cache
+C:\Users\ivan0\Desktop\lifesimulator\Life Simulator\obj\Debug\Life Simulator.exe
+C:\Users\ivan0\Desktop\lifesimulator\Life Simulator\obj\Debug\Life Simulator.pdb
